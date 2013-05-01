@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2013-05-01T20:52:09Z</time>
+<bounds minlat="46.713415300" minlon="15.509445500" maxlat="46.720493100" maxlon="15.552689000"/>
+<trk>
+<trkseg>
+<trkpt lat="46.713415300" lon="15.509445500">
+  <time>2013-03-24T09:00:43Z</time>
+  <name>login</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="46.717843823" lon="15.552000696">
+  <time>2013-03-24T09:01:01Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="46.718507101" lon="15.552237653">
+  <time>2013-03-24T09:01:02Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="46.716954200" lon="15.531067200">
+  <time>2013-03-24T09:01:07Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="46.718893582" lon="15.552585284">
+  <time>2013-03-24T09:01:19Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="46.720493100" lon="15.552689000">
+  <time>2013-03-24T09:11:28Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="46.718804060" lon="15.552530831">
+  <time>2013-03-24T09:20:50Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="46.718755763" lon="15.552599876">
+  <time>2013-03-24T09:21:22Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

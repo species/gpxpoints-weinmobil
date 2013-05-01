@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2013-05-01T20:52:08Z</time>
+<bounds minlat="47.093180550" minlon="15.395563267" maxlat="47.096198500" maxlon="15.396891541"/>
+<trk>
+<trkseg>
+<trkpt lat="47.096198500" lon="15.396827300">
+  <time>2013-03-18T19:22:25Z</time>
+  <name>login</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.095282137" lon="15.395786970">
+  <time>2013-03-18T19:22:48Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.095397026" lon="15.395641039">
+  <time>2013-03-18T19:24:17Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.095546981" lon="15.395563267">
+  <time>2013-03-18T19:24:30Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.095525644" lon="15.395689242">
+  <time>2013-03-18T19:24:45Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.095356356" lon="15.395749364">
+  <time>2013-03-18T19:24:52Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.095246514" lon="15.395805148">
+  <time>2013-03-18T19:24:58Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.095141429" lon="15.395869748">
+  <time>2013-03-18T19:25:08Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.095024625" lon="15.395979851">
+  <time>2013-03-18T19:25:14Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.094630696" lon="15.396300705">
+  <time>2013-03-18T19:25:20Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.094293600" lon="15.396476743">
+  <time>2013-03-18T19:25:26Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.093931404" lon="15.396680863">
+  <time>2013-03-18T19:25:35Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.093515780" lon="15.396891541">
+  <time>2013-03-18T19:25:40Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+<trkpt lat="47.093180550" lon="15.396632394">
+  <time>2013-03-18T19:25:45Z</time>
+  <name>update</name>
+  <cmt>5</cmt>
+  <desc>5</desc>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
